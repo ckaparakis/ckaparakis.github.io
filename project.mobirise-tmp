@@ -59,7 +59,9 @@
     "favicon": "@PROJECT_PATH@/assets/images/cklogogradientblur-128x128.png",
     "noImageResize": "",
     "screenshot": "screenshot.png",
-    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-125398859-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-125398859-1');\r\n</script>\r\n"
+    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-125398859-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-125398859-1');\r\n</script>\r\n",
+    "publishType": "local",
+    "publishPath": "file:///C:/Users/xrist/Documents/GitKraken/ckaparakis.github.io"
   },
   "pages": {
     "index.html": {
